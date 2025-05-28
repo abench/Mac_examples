@@ -1,0 +1,1 @@
+defaults write org.mozilla.firefox NSUIElement 1
